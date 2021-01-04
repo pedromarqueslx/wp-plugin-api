@@ -1,0 +1,24 @@
+/**
+ * Custom web fonts
+ */
+@font-face {
+  font-family: HelveticaNeueLTW01_41488878;
+  src : url("../fonts/HelveticaNeueLTW01_41488878.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: HelveticaNeueLTW01_55Roman;
+  src : url("../fonts/HelveticaNeueLTW01_55Roman.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: HelveticaNeueLTW01_56It;
+  src : url("../fonts/HelveticaNeueLTW01_56It.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: HelveticaNeueLTW01_71488914;
+  src : url("../fonts/HelveticaNeueLTW01_71488914.ttf") format("truetype");
+}
+
+
